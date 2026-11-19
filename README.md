@@ -129,8 +129,6 @@ buscador-imagenes-pixabay-js/
 
 No es necesario instalar dependencias adicionales ni configurar un servidor backend.
 
-> Para publicar una versión funcional sin exponer la clave de API, se recomienda implementar un backend intermediario.
-
 ## 📌 Aprendizajes
 
 Este proyecto me permitió reforzar el consumo de APIs externas mediante Fetch API y el procesamiento de respuestas JSON.
